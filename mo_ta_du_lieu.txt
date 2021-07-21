@@ -1,0 +1,9 @@
+Cột A. Là số lần mang thai
+Cột B. Là nồng độ glucose huyết tương 2 giờ trong xét nghiệm dung nạp glucose đường uống
+Cột C. Là huyể áp tâm trương (mm Hg)
+Cột D. Là Triceps độ dày nếp gấp da (mm)
+Cột E. Là Insulin huyết thanh 2 giờ (mu U / ml)
+Cột F. Là Chỉ số khối cơ thể (cân nặng tính bằng kg / (chiều cao tính bằng m) ^ 2)
+Cột G. Là Chức năng phả hệ tiểu đường
+Cột H. Là Tuổi (năm)
+Cột I. Là Tình trạng bệnh (1 hoặc 0)
